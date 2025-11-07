@@ -2,6 +2,7 @@
 # Install all of the VS Code extensions below on bash or git bash with bash my_vscode_extensions.sh
 
 # ADDING A COMMENT
+# made a change to test commits
 
 code --install-extension codezombiech.gitignore
 code --install-extension ctctklfh.conda-env-activator
